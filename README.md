@@ -4,7 +4,7 @@ A simple Ray Casting 3D engine using SDL as the rendering back-end.
 # <u>AUTHORS</u>
 - Johnel Saphire  ... [Twitter](https://twitter.com/johnelsaphiree) [LinkedIn] (https://linkedin.com/in/johnelsaphire/)
 - Caleb Nyong ... [LinkedIn](https://www.linkedin.com/in/caleb-nyong5/) 
-- Ufia Covanant ... [Linkedin] (linkedin.com/in/ufiairene/)
+- Ufia Covanant ... [Linkedin](https://www.linkedin.com/in/covenantireneufia)
 ## The goal of this project is to create a game in 3D using raycasting !
 This was designed for kids so that it could improve their spatial recognition and analytical skills
 
